@@ -19,18 +19,11 @@ $(document).ready(function () {
         responsive: [{
             breakpoint: 768,
             settings: {
-                slidesToShow: 2
+                slidesToShow: 1
             }
         }
         ],
-        responsive: [{
-            breakpoint: 300,
-            settings: {
-                slidesToShow: 1
-            }
-               
-                    }
-        ],
+       
         mobileFirst:true,
        
     }
