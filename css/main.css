@@ -82,6 +82,7 @@
 }
 
 .slider .slider__item {
+  width: 100px;
   transition: all 0.3 easy 0s;
   text-align: center;
   opacity: 0.4;
