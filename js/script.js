@@ -16,15 +16,15 @@ $(document).ready(function () {
         centerMode: true,
         // rows: 2,
         // slidesPerRows: 2,
-        responsive: [{
-            breakpoint: 768,
-            settings: {
-                slidesToShow: 1
-            }
-        }
-        ],
+        // responsive: [{
+        //     breakpoint: 768,
+        //     settings: {
+        //         slidesToShow: 1
+        //     }
+        // }
+        // ],
        
-        mobileFirst:true,
+        // mobileFirst:true,
        
     }
        
