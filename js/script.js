@@ -2,7 +2,7 @@ $(document).ready(function () {
     $('.slider').slick({
         dots: true,
         adaptiveHeight: true,
-        slidesToShow: 1,
+        slidesToShow: 3,
         slidesToScroll: 1,
         speed: 750,
         easing: 'easy',
